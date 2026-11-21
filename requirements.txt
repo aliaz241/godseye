@@ -1,0 +1,4 @@
+aiohttp
+beautifulsoup4
+telethon  # optional: only for the userbot layer (userbot/); the bot
+          # runs fine without it while USERBOT_ENABLED is False
